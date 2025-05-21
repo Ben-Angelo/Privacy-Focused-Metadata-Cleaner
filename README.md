@@ -35,7 +35,8 @@ I love to build things—whether it's innovative security tools, automation scri
 
 ### 📫 Connect with Me
 
-[![LinkedIn Badge](www.linkedin.com/in/benjamin-omoregie-1a0a092a1)
+[![LinkedIn Badge] 
+www.linkedin.com/in/benjamin-omoregie-1a0a092a1
 
 ---
 
