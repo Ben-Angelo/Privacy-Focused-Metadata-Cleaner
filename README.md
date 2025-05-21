@@ -1,43 +1,20 @@
-# 👋 Hi, I'm Ben-Angelo!
+Privacy-Focused Metadata Cleaner
+Project Overview
+This is a user-friendly, privacy-focused desktop application developed with Python that allows you to easily remove sensitive metadata from your digital photos (JPEG) and documents (PDF) in a batch.
 
-## 🛡️ Cybersecurity Enthusiast | Aspiring Web & Network Pentester
+Metadata, like EXIF data in images (camera model, date taken, even GPS coordinates) or author information in PDFs, can unintentionally expose personal details. This tool provides a simple graphical interface to sanitize your files before sharing them.
 
-Welcome to my GitHub profile! I'm passionate about cybersecurity and on a journey to specialize in web and network penetration testing. I love building things—especially tools that help protect privacy and security in the digital world.
-
----
-
-### 🚀 Latest Project: Privacy-Focused Metadata Cleaner
-
-**Protecting privacy one file at a time.**
-
-- **What it does:** Strips sensitive metadata from files to enhance user privacy.
-- **Features:**
-  - Clean and intuitive GUI (built with Tkinter)
-  - Batch processing for JPEGs (via Pillow) and PDFs (via PyPDF2)
-  - Custom icon for a polished look
-  - Packaged as an executable with PyInstaller
-
----
-
-### 🧰 Skills & Tools
-
-- **Languages & Libraries:** Python, Tkinter, Pillow, PyPDF2
-- **Security Skills:** Web and network pentesting basics
-- **Other Tools:** PyInstaller, GUI/UX design for security tools
-
----
-
-### 🌱 Hobbies
-
-I love to build things—whether it's innovative security tools, automation scripts, or just tinkering with new ideas!
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn Badge] 
-www.linkedin.com/in/benjamin-omoregie-1a0a092a1
-
----
-
-Thanks for stopping by! Feel free to check out my repositories or reach out for collaboration. 🚀
+Features
+Intuitive GUI: Built with Tkinter for an easy-to-use graphical interface.
+Batch Processing: Clean multiple JPEG and PDF files from a selected input folder at once.
+Metadata Stripping: Effectively removes EXIF data from JPEGs using Pillow and standard metadata from PDFs using PyPDF2.
+Selective File Type Cleaning: Choose to clean only JPEGs, only PDFs, or both.
+Progress Tracking: Includes a progress bar and activity log to monitor the cleaning process.
+Output Management: Saves cleaned files to a specified output folder, preserving your original files.
+Standalone Executable: Can be packaged into an executable for easy distribution and use without needing Python installed (using PyInstaller).
+Technologies Used
+Python 3.x: The core programming language.
+Tkinter: Python's standard GUI toolkit for building the desktop interface.
+Pillow: For opening, processing, and saving JPEG images, specifically for EXIF metadata handling.
+PyPDF2: For reading, manipulating, and writing PDF files, enabling metadata removal.
+PyInstaller: (Optional) For packaging the Python application into a standalone executable (.exe for Windows, .app for macOS).
