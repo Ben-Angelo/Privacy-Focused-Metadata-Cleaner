@@ -34,6 +34,9 @@ Metadata such as EXIF data in images (camera model, date taken, GPS coordinates)
 
 <!-- Add screenshots here if available -->
 <!-- ![App Screenshot](path/to/screenshot.png) -->
+<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/4cf6495d-629a-4728-af82-9abbacbb7208" />
+
+
 
 ---
 
