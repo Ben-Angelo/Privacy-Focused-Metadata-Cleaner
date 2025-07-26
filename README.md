@@ -42,8 +42,7 @@ Metadata such as EXIF data in images (camera model, date taken, GPS coordinates)
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Ben-Angelo/profile-repository.git
-cd profile-repository
+git clone https://github.com/Ben-Angelo/Privacy-Focused-Metadata-Cleaner.git
 ```
 
 ### Install Dependencies
