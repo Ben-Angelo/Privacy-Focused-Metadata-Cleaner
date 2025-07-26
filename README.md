@@ -58,6 +58,7 @@ pip install Pillow PyPDF2
 
 ```bash
 python main.py
+python login_server.py(independently)
 ```
 
 ### (Optional) Build Executable
